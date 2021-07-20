@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/sai-teja_me20b207/static/css/main.c1290662.chunk.css",
+    "main.js": "/sai-teja_me20b207/static/js/main.30673b71.chunk.js",
+    "main.js.map": "/sai-teja_me20b207/static/js/main.30673b71.chunk.js.map",
+    "runtime-main.js": "/sai-teja_me20b207/static/js/runtime-main.50276a0b.js",
+    "runtime-main.js.map": "/sai-teja_me20b207/static/js/runtime-main.50276a0b.js.map",
+    "static/js/2.ef0cfb31.chunk.js": "/sai-teja_me20b207/static/js/2.ef0cfb31.chunk.js",
+    "static/js/2.ef0cfb31.chunk.js.map": "/sai-teja_me20b207/static/js/2.ef0cfb31.chunk.js.map",
+    "index.html": "/sai-teja_me20b207/index.html",
+    "static/css/main.c1290662.chunk.css.map": "/sai-teja_me20b207/static/css/main.c1290662.chunk.css.map",
+    "static/js/2.ef0cfb31.chunk.js.LICENSE.txt": "/sai-teja_me20b207/static/js/2.ef0cfb31.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.50276a0b.js",
+    "static/js/2.ef0cfb31.chunk.js",
+    "static/css/main.c1290662.chunk.css",
+    "static/js/main.30673b71.chunk.js"
+  ]
+}
